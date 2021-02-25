@@ -3,5 +3,5 @@
 
 Fundamentally, Genshin Impact is a game about optimizing four different character slots so that you can clear content efficiently and consistently. 
 * Timing
- * asdf
+  * asdf
 * Team Contributions
