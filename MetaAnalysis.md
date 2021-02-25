@@ -14,4 +14,7 @@ The *main damage dealer* of a team composition sets an initial premise for desig
 * **Energy Generation** 
   * Self-sufficiency. [Evolution of Razor From Early to Late Game]()
 
-The *support structure* of a team composition then 
+The *support structure* of a team composition then enhances these subpoints and, from them, we can begin to flesh out the beginnings of our ability order, our rotation. Specifically, we can start to determine how much time we spend on our main damage dealer, our core support structure, or our flexible slot. Listed are the most important considerations.
+
+* **Time**
+ * asdf
