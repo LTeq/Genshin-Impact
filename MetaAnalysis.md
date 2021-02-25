@@ -8,10 +8,10 @@ Fundamentally, Genshin Impact is a game about optimizing four different characte
 ### Core Structure
 The *main damage dealer* of a team composition sets an initial premise for designing the overall support structure. It defines the key questions that the composition wants to answer. Listed are ranked the most important considerations.
 
-* Damage. Linked is a sample analysis on two main damage dealers for perspective: [The Uniqueness of Ganyu and Childe]()
+* **Damage**. Linked is a sample analysis on two main damage dealers for perspective: [The Uniqueness of Ganyu and Childe]()
   * Damage distribution between abilties.
   * Disjointed versus continuous elemental application.
-* Energy Generation
+* **Energy Generation**
   * Instant or prolonged particle generation.
   * Self-sufficiency.
 
