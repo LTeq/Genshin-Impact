@@ -6,7 +6,7 @@ Fundamentally, Genshin Impact is a game about optimizing four different characte
 
 ## *Breakdown*
 ### Core Structure
-The *main damage dealer* of a team composition sets an initial premise for designing the overall support structure. It defines the key questions that the composition wants to answer. Listed are the subpoints that define most heavily these questions.
+The *main damage dealer* of a team composition sets an initial premise for designing the overall support structure. It defines the key questions that the composition wants to answer. Listed are the subpoints that define these questions to the greatest degree.
 * Element
   * Disjointed versus continuous elemental application. 
   * Split damage typing.
