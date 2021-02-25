@@ -12,6 +12,6 @@ The *main damage dealer* of a team composition sets an initial premise for desig
   * Damage distribution between abilties. [Ning Guang Rotations]()
   * Disjointed versus continuous elemental application. [The Uniqueness of Ganyu and Childe]()
 * **Energy Generation** 
-  * Self-sufficiency. [Razor]()
+  * Self-sufficiency. [Evolution of Razor From Early to Late Game]()
 
 The *support structure* of a team composition then 
