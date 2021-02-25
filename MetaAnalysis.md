@@ -6,11 +6,14 @@ Fundamentally, Genshin Impact is a game about optimizing four different characte
 
 ## *Breakdown*
 ### Core Structure
-The *main damage dealer* of a team composition sets an initial premise for designing the overall support structure. It defines the key questions that the composition wants to answer. Listed are ranked the most defining considerations. 
-* 
-  * Disjointed versus continuous elemental application. 
-  * Available supportive buffs or debuffs.
-* 
+The *main damage dealer* of a team composition sets an initial premise for designing the overall support structure. It defines the key questions that the composition wants to answer. Listed are ranked the most important considerations.
+
+* Damage
+  * Damage distribution between abilties.
+  * Disjointed versus continuous elemental application.
+  * Timing of buffs and debuffs.
+* Energy Generation
+  * Instant or prolonged particle generation.
   * Self-sufficiency.
-  * 
-The support structure is then built around fulfilling that premise
+
+The *support structure* of a team composition then 
