@@ -6,15 +6,14 @@ Fundamentally, Genshin Impact is a game about optimizing four different characte
 
 ## *What Makes Each Character Unique*
 ### Main Damage Dealer
-The *main damage dealer* of a team composition sets an initial premise for designing the overall support structure. It defines the key questions that the composition wants to answer. Listed are ranked the most important considerations.
+The *main damage dealer* of a team composition sets an initial premise for designing the overall support structure. Below is a condensed list on what distinguishes the main damage dealers from one another. When compiling this list, my main 
+
+  * Damage distribution between abilties. [Case Study: Ning Guang]()
+  * Disjointed versus continuous elemental application. [Case Study: Ganyu and Childe]()
+  * Self-sufficiency. [Case Study: Razor]()
+
+### Core Support Structure
+The *support structure* of a team composition 
 
 * **Damage**
-  * Damage distribution between abilties. [Ning Guang]()
-  * Disjointed versus continuous elemental application. [Ganyu and Childe]()
-* **Energy Generation** 
-  * Self-sufficiency. [Razor]()
-
-The *support structure* of a team composition then enhances these subpoints and, from them, we can begin to flesh out the beginnings of our ability order, our rotation. Specifically, we can start to determine how much time we spend on our main damage dealer, our core support structure, or our flexible slot. Listed are the most important considerations.
-
-* **Time**
- * asdf
+ * 
