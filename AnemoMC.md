@@ -4,9 +4,8 @@
 ## Preface:
 
 This is a document going over the conclusions I’ve drawn on places where Anemo MC is a viable option for a team composition. Key points I hit on in this document are:
-
-Anemo MC’s Place in the Meta
-Core Mechanics
+ * Anemo MC’s Place in the Meta
+ * Core Mechanics
 
 ## Meta:
 
