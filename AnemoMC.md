@@ -36,16 +36,17 @@ There are only 2 swirl procs maximum: one on initial tick, then the second on re
 
 ### Elemental Infusion Mechanics: 
 Anemo MC’s E generally infuses on the second tick and prioritizes: 
-Enemy Elemental Shields > Self > Enemy Element
+ * Enemy Elemental Shields > Self > Enemy Element
 Anemo MC’s Q generally infuses on the second or third tick and prioritizes: 
-Enemy Elemental Shields > Self > Enemy Element
+ * Enemy Elemental Shields > Self > Enemy Element
 
 ### Q and C6 Mechanics:
 Anemo MC’s Q ticks 9 times over a 6 second period and swirls 5 times.
-Resistance shred on anemo will occur after the first instance of anemo damage from Q.
-Resistance shred on the infused element will occur after the first instance of elemental damage from Q.
+ * Resistance shred on anemo will occur after the first instance of anemo damage from Q.
+ * Resistance shred on the infused element will occur after the first instance of elemental damage from Q.
 The resistance shred will last 10 seconds since the last tick.
 
 ### Double Viridescent Venerer Synergies:
-XL: https://streamable.com/81i403
-Fischl: https://streamable.com/uqo15f
+ * XL: https://streamable.com/81i403
+ * Fischl: https://streamable.com/uqo15f
+ * Bennett: 
