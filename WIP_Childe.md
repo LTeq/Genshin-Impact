@@ -11,4 +11,4 @@
  * There is potential for childe to benefit from an Anemo sub-dps due to his synergy with the high-damaging Anemo MC Q or Venti Q. However, such a change will likely rewrite Childe's compositions rather than slot-in for them.
 
 ### Resources
-Moedeus#7018 Guide to Weapons: https://docs.google.com/document/d/1yB-iT5CzPkSoYpuQ656nYkEdlZuhqi_-duSwo83_2oM/edit
+Moedeus#7018 Opinion on Weapons: https://docs.google.com/document/d/1yB-iT5CzPkSoYpuQ656nYkEdlZuhqi_-duSwo83_2oM/edit
