@@ -5,5 +5,7 @@
   * Switches between a discrete elemental application and a continuous elemental application. 
     * Discrete elemental application consists of charge shots applying two instances of hydro: one for the initial elemental reaction, then another for reapplying hydro for a second elemental reaction to occurr off off.
     * The continuous elemental application consists of hydro application that is difficult to override due to the simultaneous application of 2 * 1U of hydro.
-  * Childe is optimal within a 15 second rotation, however variations in sub-dps may extend this to 20 seconds. 25 seconds rotation segments are not ideal.
-    * *Note:* The exact definition of rotation segments are loosely defined. As more rotations are printed on this repository, the definition will be more strict.
+
+## Potential Childe Meta Evolution
+ * Childe ideally would want a 15 second rotation, however his current sub-dps pool usually extends an optimal rotation to be within the range of 20 seconds.
+ * There is potential for childe to benefit from an Anemo sub-dps due to his synergy with the high-damaging Anemo MC Q or Venti Q. However, such a change will likely rewrite Childe's compositions rather than slot-in for them.
