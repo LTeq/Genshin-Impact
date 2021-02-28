@@ -47,7 +47,7 @@ Anemo MC’s Q ticks 9 times over a 6 second period and swirls 5 times.
 The resistance shred will last 10 seconds since the last tick.
 
 ### Double Viridescent Venerer Synergies:
-These strategies are the same for both E and Q.
+These strategies are the same for both E and Q. Note that Viridescent Venerer cannot proc while the anemo character wielding it is off-field.
  * XL: https://streamable.com/81i403
  * Fischl: https://streamable.com/uqo15f
- * Bennett: 
+ * Bennett: https://streamable.com/91twi1
