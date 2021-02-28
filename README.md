@@ -5,3 +5,4 @@ This repository contains my meta analysis and guides on Genshin Impact. It is si
 
 ### Quality Control
 OD = Outdated.
+WIP = Work in Progress.
