@@ -13,11 +13,11 @@ Team compositions consist of main damage dealer slot(s), core support slot(s), t
 ### Main Damage Dealer
 Characteristics of a main damage dealer:
 
-  * Damage distribution between abilties. [Case Study: Ning Guang]()
-  * Disjointed versus continuous elemental application. [Case Study: Childe](), [Case Study: Ganyu]()
-  * Self-sufficiency. [Case Study: Razor]()
+  * Damage distribution between abilties. [*Case Study:* Ning Guang]()
+  * Disjointed versus continuous elemental application. [*Case Study:* Childe](), [*Case Study:* Ganyu]()
+  * Self-sufficiency. [*Case Study:* Razor]()
 
 ### Core Support Structure
 Characteristics of a main damage dealer:
 
- * Self-sufficiency. [Case Study: Xiang Ling]()
+ * Self-sufficiency. [*Case Study:* Xiang Ling]()
